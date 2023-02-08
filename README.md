@@ -19,16 +19,16 @@ This repository contains a set of jupyter notebooks for each phase of the projec
 ### Phases of the Project
 This project includes the following phases:
 
-1. Data Cleaning Phase - In this stage, the dataset will be downloaded, previewed, and assesed for potential data formatting problems. It is in this stage where missing data, incorrect values and data forats will be dealt with.
+1. **Data Cleaning Phase** - In this stage, the dataset will be downloaded, previewed, and assesed for potential data formatting problems. It is in this stage where missing data, incorrect values and data forats will be dealt with.
 
-2. Data Familiarization Phase - In this stage, the dataset will be visualized in order to identify potential problems during modelling. At this stage, histograms, ECDFs, heatmaps, and more will be used to detect potential problems.
+2. **Data Familiarization Phase** - In this stage, the dataset will be visualized in order to identify potential problems during modelling. At this stage, histograms, ECDFs, heatmaps, and more will be used to detect potential problems.
 
-3. Data Pre-processing - In this stage, the dataset will be formatted so that it can be used in machine learning model. That is, all data should be encoded numerically. At this stage, one-hot encoding and ordinal encoding will be used to encode non-numeric data.
+3. **Data Pre-processing** - In this stage, the dataset will be formatted so that it can be used in machine learning model. That is, all data should be encoded numerically. At this stage, one-hot encoding and ordinal encoding will be used to encode non-numeric data.
 
-4. Feature Selection - Once the dataset is ready, we will conduct feature selection to identify which among all of the feautures were helpful in modelling our machine learning algorithms
+4. **Feature Selection** - Once the dataset is ready, we will conduct feature selection to identify which among all of the feautures were helpful in modelling our machine learning algorithms
 
-5. Machine Learning Modelling - With features carefully selected we can now proceed to the exciting part -- machine learning. In this stage, a series of machine learning model will be trained, evaluated, and compared. The objective of this phase is to find a good model that will predict reliably which employee is most likely to leave the company.
+5. **Machine Learning Modelling** - With features carefully selected we can now proceed to the exciting part -- machine learning. In this stage, a series of machine learning model will be trained, evaluated, and compared. The objective of this phase is to find a good model that will predict reliably which employee is most likely to leave the company.
 
-6. Model Understanding - At this phase, we will utilize one of the more explainable models developed from the previous phase. The goal is to quantify the relationship of each of the selected features with employee attrition.
+6. **Model Understanding** - At this phase, we will utilize one of the more explainable models developed from the previous phase. The goal is to quantify the relationship of each of the selected features with employee attrition.
 
-7. Conclusions and Recommendations - A closing note summarizing the results, findings, and recommendations.
+7. **Conclusions and Recommendations** - A closing note summarizing the results, findings, and recommendations.
